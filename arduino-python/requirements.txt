@@ -1,0 +1,4 @@
+paho-mqtt==1.6.1
+pyFirmata==1.1.0
+pymata4==1.15
+pyserial==3.5
