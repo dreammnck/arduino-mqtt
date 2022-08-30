@@ -26,6 +26,5 @@ if client.connect(host, port) != 0:
 
 while True: 
 
-
     client.publish('test', echo_status)
     time.sleep(2)
